@@ -16,3 +16,20 @@ This project showcases my SQL skills and data analysis techniques applied to ret
 Database Creation: Designed and created a database named 'Retail_sales' to manage retail sales data.
 
 Table Creation: Built a table retail_sales with structured columns including transaction ID, sale date, sale time, customer details (ID, gender, age), product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount. This setup ensured organized storage of data for analysis and querying.
+
+CREATE DATABASE p1_retail_db;
+
+CREATE TABLE retail_sales
+(
+    transactions_id INT PRIMARY KEY,
+    sale_date DATE,	
+    sale_time TIME,
+    customer_id INT,	
+    gender VARCHAR(10),
+    age INT,
+    category VARCHAR(35),
+    quantity INT,
+    price_per_unit FLOAT,	
+    cogs FLOAT,
+    total_sale FLOAT
+);
