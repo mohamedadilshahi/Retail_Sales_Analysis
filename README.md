@@ -11,3 +11,8 @@ This project showcases my SQL skills and data analysis techniques applied to ret
 4. Business Analysis: Use SQL to answer specific business questions and derive insights from the sales data.
 
 # Project Structure
+
+# 1. Database Setup
+Database Creation: Designed and created a database named 'Retail_sales' to manage retail sales data.
+
+Table Creation: Built a table retail_sales with structured columns including transaction ID, sale date, sale time, customer details (ID, gender, age), product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount. This setup ensured organized storage of data for analysis and querying.
