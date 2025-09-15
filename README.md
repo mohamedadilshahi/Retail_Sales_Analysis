@@ -9,3 +9,5 @@ This project showcases my SQL skills and data analysis techniques applied to ret
 2. Data Cleaning: Identify and remove any records with missing or null values.
 3. Exploratory Data Analysis (EDA): Perform basic exploratory data analysis to understand the dataset.
 4. Business Analysis: Use SQL to answer specific business questions and derive insights from the sales data.
+
+# Project Structure
