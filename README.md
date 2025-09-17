@@ -160,7 +160,7 @@ FROM RankedSales
 WHERE sales_rank = 1;   -- Best month per year
 ```
 
-8. **Write a SQL query to find the top 5 customers based on the highest total sales **:
+8. **Write a SQL query to find the top 5 customers based on the highest total sales**:
 ```sql
 SELECT TOP 5
     customer_id,
