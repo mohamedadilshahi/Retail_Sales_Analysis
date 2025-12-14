@@ -22,8 +22,8 @@ wrote SQL queries to answer key business questions, and analyzed sales performan
 
 * Database Creation: Designed and created a database named 'Retail_sales' to manage retail sales data.
 * Table Creation: Built a table retail_sales with structured columns including transaction ID, sale date, sale time, customer details 
-(ID, gender, age), product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount. This setup ensured organized
-storage of data for analysis and querying.
+  (ID, gender, age), product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount. This setup ensured organized
+  storage of data for analysis and querying.
 
 ```sql
 CREATE DATABASE Retail_sales
