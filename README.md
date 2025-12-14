@@ -197,3 +197,9 @@ GROUP BY
 ## Conclusion
 
 This project provided me with hands-on experience in applying SQL to real-world business problems. From creating and managing databases to performing data cleaning, exploratory analysis, and advanced business-driven queries, I was able to demonstrate my ability to transform raw sales data into meaningful insights. The analysis highlighted sales patterns, customer behavior, and product performance, which are critical for strategic decision-making. By completing this project, I not only strengthened my SQL skills but also showcased my capability to think analytically and solve problems that directly impact business outcomes—skills that are highly valuable for a Business Analyst or Data Analyst role.
+
+## Author
+
+Mohamed Adilshahi – Aspiring Business Analyst
+
+GitHub: https://github.com/mohamedadilshahi
